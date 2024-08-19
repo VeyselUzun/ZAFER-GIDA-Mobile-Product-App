@@ -1,0 +1,54 @@
+name: zafer
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo/logo.png
+    - assets/marka/droetker.png
+    - assets/marka/olca.png
+    - assets/marka/fersan.png
+    - assets/marka/ulusoy.jpg
+    - assets/marka/haskaymak.jpg
+    - assets/marka/esemmat.jpg
+    - assets/marka/hasata.jpg
+    - assets/marka/freshsoft.jpg
+    - assets/marka/haspet.png
+    - assets/marka/bor.png
+    - assets/marka/vita.jpg
+    - assets/marka/birtadsan.jpg
+    - assets/marka/cricket.jpg
+    - assets/marka/kayseriseker.png
+    - assets/marka/has.jpeg
+    - assets/marka/pg.png
+    - assets/ürünler/yardımcılar_serisi/aktif_maya.jpg
+    - assets/ürünler/yardımcılar_serisi/ekşi_maya.png
+    - assets/ürünler/dekor_serisi/çikolata_parçaları_bitter.png
+    - assets/ürünler/dekor_serisi/çikolata_parçaları_sütlü.jpg
+    - assets/ürünler/un_karışımları/Çikolata Şelalesi.png
+    - assets/ürünler/un_karışımları/profiterol_1.png
+    - assets/ürünler/içecekler_sıvı_aroma_vericiler/çikolataçilekli.jpg
+    - assets/ürünler/içecekler_sıvı_aroma_vericiler/çilekli_milkshake.jpg
+    - assets/ürünler/glutensiz_ürünler/glutensiz-cikolatali-sos.png
+    - assets/ürünler/glutensiz_ürünler/glutensiz-ekmek-karisimi.png
+    - assets/ürünler/puding/Puding Bitter Çikolatalı.jpg
+    - assets/ürünler/puding/Puding Çikolata Parçalı.jpg
+    - assets/ürünler/sos_jel/Beyaz Çikolatalı Sos.png
+    - assets/ürünler/sos_jel/Bitter Çikolatalı Sos.png
+
